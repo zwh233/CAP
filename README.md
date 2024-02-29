@@ -1,6 +1,6 @@
 # CAP
 
-Official implement of A Community-Aware Pre-training Method of Graph Neural Networks for Node Classification in the 40th IEEE International Conference on Data Engineering (ICDE-24)
+Official implement of A Community-Aware Pre-training Method of Graph Neural Networks for Node Classification in the 40th IEEE International Conference on Data Engineering (VLDB-24)
 
 ![](/CAP.png)
 
